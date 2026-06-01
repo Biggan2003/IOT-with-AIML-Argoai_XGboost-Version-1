@@ -199,7 +199,7 @@ Hugging Face	Model hosting & Spaces
 
 
 👨‍💻 Author
-G.M. Biggan
+G.M Biggan
 
 GitHub: https://github.com/Biggan2003
 Project: AgroAI - Smart Farming Ecosystem
